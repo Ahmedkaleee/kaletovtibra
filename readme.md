@@ -24,3 +24,4 @@ We've combined the power of the Following feed with the For you feed so there’
 |----------|---|-------|
 |1|Samir|Katica|
 |2|Osman|Hrnjica|
+|3         |Miki|Maus  |
