@@ -28,6 +28,10 @@ We've combined the power of the Following feed with the For you feed so there’
 
 |redni broj|ime|prezime|
 |----------|---|-------|
-|cuko|Samir|Katica|
-|maca|Osman|Hrnjica|
-|3         |Miki|Maus  |
+|1|Mustafa|Alijagić  |
+|2|Adha Bečić        |
+|3|Nejla Hajduković  |
+|4|Hamza Hajlovac    |
+|5|Sarah Karamustafić|
+|6|  Ahmed Katica    |
+|7| Hanan Kulović    |
