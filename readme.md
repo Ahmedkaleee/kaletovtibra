@@ -23,7 +23,9 @@ Nakon toga u int main djelu pozivamo tu funkciju
 
 ## Drugi zadatak 
 
-U ovom zadatku 
+U ovom zadatku unosimo broj n i sabiramo njegove cifre i vracamo novi broj koji logicno ima manje cifara od predhodnog sve dok vraceni broj ne bude imao samo jednu cifru te onda ispisuje koliko smo puta ponovili korak sabiranja cifara.
+
+![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/10b5f281-5fce-4293-b8e6-6c56d9a82c21)
 
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/20c01ba0-ffc6-422c-b1fb-e757d2ee9136)
