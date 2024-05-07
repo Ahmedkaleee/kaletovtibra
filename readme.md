@@ -15,7 +15,7 @@ U ovom zadatku pravimo funkcija ispisuje ime prezime i skolu u koju idem
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/d0263eaa-4783-4727-ac62-c55efb88b2d4)
 
-Nakon toga u int main djelu pravimo 
+Nakon toga u int main djelu pozivamo tu funkciju
 
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/8358eb92-8286-4088-970c-0cddd0fff0e0)
