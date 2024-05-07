@@ -20,6 +20,7 @@ Nakon toga u int main djelu pozivamo tu funkciju
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/8358eb92-8286-4088-970c-0cddd0fff0e0)
 
+![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/5d29b3a2-0f90-4711-a50c-eefea32c0444)
 
 ## Drugi zadatak 
 
