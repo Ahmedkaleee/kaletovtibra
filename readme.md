@@ -1,5 +1,10 @@
 # Naslov
-
+1.Registracija na GitHub: Kreirao/la sam GitHub nalog posjetom stranici https://github.com/ i popunio/la tražene podatke.
+2.Kreiranje repozitorijuma: Nakon prijave, otvorio/la sam novi repozitorijum za projekat.
+3.Dodavanje fajlova: U repozitorijumu sam kliknuo/la na "Add file" i odabrao/la "Upload files" kako bih postavio/la fajl sa zadacima.
+4.Commit promjena: Unio/la sam opis promjene (commit message) kako bih sačuvao/la promjene.
+5.Praćenje promjena: Redovno sam ažurirao/la repozitorijum sa novim fajlovima ili izmjenama kako bih održao/la projekat aktuelnim.
+6.Korištenje alata za kontrolu verzija: Iskoristio/la sam alate za upravljanje verzijama kako bih pratila/la razvoj projekta i surađivala sa ostalim članovima tima, ako ih ima.
 
 
 Link na Google stranicu (http://www.google.com)
