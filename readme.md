@@ -12,6 +12,7 @@
 ## prvi zadatak 
 
 U ovom zadatku pravimo funkcija ispisuje ime prezime i skolu u koju idem
+
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/d0263eaa-4783-4727-ac62-c55efb88b2d4)
 
 
