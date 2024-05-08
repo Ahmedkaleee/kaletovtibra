@@ -1,15 +1,16 @@
 # Kreiranje Githuba
-- Registracija na GitHub: Kreirao/la sam GitHub nalog posjetom stranici https://github.com/ i popunio/la tražene podatke.
-- Kreiranje repozitorijuma: Nakon prijave, otvorio/la sam novi repozitorijum za projekat.
-- Dodavanje fajlova: U repozitorijumu sam kliknuo/la na "Add file" i odabrao/la "Upload files" kako bih postavio/la fajl sa zadacima.
-- Commit promjena: Unio/la sam opis promjene (commit message) kako bih sačuvao/la promjene.
-- Praćenje promjena: Redovno sam ažurirao/la repozitorijum sa novim fajlovima ili izmjenama kako bih održao/la projekat aktuelnim.
-- Korištenje alata za kontrolu verzija: Iskoristio/la sam alate za upravljanje verzijama kako bih pratila/la razvoj projekta i surađivala sa ostalim članovima tima, ako ih ima.
+- Registracija na GitHub: Kreirao sam GitHub nalog posjetom stranici https://github.com/ i popunio tražene podatke.
+- Kreiranje repozitorijuma: Nakon prijave, otvorio sam novi  javni repozitorijum za projekat.
+- Dodavanje fajlova: U repozitorijumu sam kliknuo na "Add file" i odabrao  "Upload files" kako bih postavio  fajl sa zadacima.
+- Commit promjena: Unio sam opis promjene (commit message) kako bih sačuvao/la promjene.
+- Praćenje promjena: Redovno sam ažurirao repozitorijum sa novim fajlovima ili izmjenama kako bih održao projekat aktuelnim.
+- Korištenje alata za kontrolu verzija: Iskoristio sam alate za upravljanje verzijama kako bih pratila razvoj projekta i surađivala sa ostalim članovima tima, ako ih ima.
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/20c01ba0-ffc6-422c-b1fb-e757d2ee9136)
 
-
-
+[Prvi zadatak](#prvi zadatak)
+[Drugi zadatak](#drugi zadatak)
+[Treci zadatak](#treci zadatak)
 
 
 ## prvi zadatak 
@@ -59,12 +60,6 @@ Nakon toga u int main funkciji pozivamo funkciju godine:
 |4|Hamza |Hajlovac    |
 |5|Sarah |Karamustafić|
 |6|  Ahmed| Katica    |
-|7| Hanan | Kulović    |
-
-
-1. Real madrid
-2.Panatenaikos
-3.Monaco
-4.Fenerbahce 
+|7| Hanan | Kulović   | 
 
 
