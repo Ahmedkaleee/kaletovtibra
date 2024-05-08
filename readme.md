@@ -8,9 +8,9 @@
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/20c01ba0-ffc6-422c-b1fb-e757d2ee9136)
 
-[Prvi zadatak](#prvi_zadatak)
-[Drugi zadatak](#drugi_zadatak)
-[Treci zadatak](#treci_zadatak)
+- [Prvi zadatak](#prvi_zadatak)
+- [Drugi zadatak](#drugi_zadatak)
+- [Treci zadatak](#treci_zadatak)
 
 
 ## Prvi_zadatak 
