@@ -9,7 +9,7 @@ void pozdrav(int godine) {
 }
 
 int main() {
-    int mojeGodine = 25; // Možete promijeniti ovo na svoje godine
+    int mojeGodine = 25; 
 
     // Poziv funkcije pozdrav sa godinama kao argumentom
     pozdrav(mojeGodine);
