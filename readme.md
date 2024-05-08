@@ -1,10 +1,10 @@
 # Kreiranje Githuba
-1.Registracija na GitHub: Kreirao/la sam GitHub nalog posjetom stranici https://github.com/ i popunio/la tražene podatke.
-2.Kreiranje repozitorijuma: Nakon prijave, otvorio/la sam novi repozitorijum za projekat.
-3.Dodavanje fajlova: U repozitorijumu sam kliknuo/la na "Add file" i odabrao/la "Upload files" kako bih postavio/la fajl sa zadacima.
-4.Commit promjena: Unio/la sam opis promjene (commit message) kako bih sačuvao/la promjene.
-5.Praćenje promjena: Redovno sam ažurirao/la repozitorijum sa novim fajlovima ili izmjenama kako bih održao/la projekat aktuelnim.
-6.Korištenje alata za kontrolu verzija: Iskoristio/la sam alate za upravljanje verzijama kako bih pratila/la razvoj projekta i surađivala sa ostalim članovima tima, ako ih ima.
+- Registracija na GitHub: Kreirao/la sam GitHub nalog posjetom stranici https://github.com/ i popunio/la tražene podatke.
+- Kreiranje repozitorijuma: Nakon prijave, otvorio/la sam novi repozitorijum za projekat.
+- Dodavanje fajlova: U repozitorijumu sam kliknuo/la na "Add file" i odabrao/la "Upload files" kako bih postavio/la fajl sa zadacima.
+- Commit promjena: Unio/la sam opis promjene (commit message) kako bih sačuvao/la promjene.
+- Praćenje promjena: Redovno sam ažurirao/la repozitorijum sa novim fajlovima ili izmjenama kako bih održao/la projekat aktuelnim.
+- Korištenje alata za kontrolu verzija: Iskoristio/la sam alate za upravljanje verzijama kako bih pratila/la razvoj projekta i surađivala sa ostalim članovima tima, ako ih ima.
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/20c01ba0-ffc6-422c-b1fb-e757d2ee9136)
 
@@ -45,6 +45,8 @@ U ovm-om zadatku pravimo funkciju vase ime, prezime i broj prosljedjeni godina:
 Nakon toga u int main funkciji pozivamo funkciju godine: 
 
 
+![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/cb45e368-101d-4536-a22d-7b358e4f9cf2)
+
 
 ### tabela
 
@@ -65,7 +67,4 @@ Nakon toga u int main funkciji pozivamo funkciju godine:
 3.Monaco
 4.Fenerbahce 
 
-- klubovi
--. fk sarajevo, zeljo, borac,zrinski 
-- 
-- 
+
