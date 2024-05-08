@@ -8,12 +8,12 @@
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/20c01ba0-ffc6-422c-b1fb-e757d2ee9136)
 
-[Prvi zadatak](#prvi zadatak)
-[Drugi zadatak](#drugi zadatak)
-[Treci zadatak](#treci zadatak)
+[Prvi zadatak](#prvi_zadatak)
+[Drugi zadatak](#drugi_zadatak)
+[Treci zadatak](#treci_zadatak)
 
 
-## prvi zadatak 
+## Prvi_zadatak 
 
 U ovom zadatku pravimo funkcija ispisuje ime prezime i skolu u koju idem
 
@@ -26,7 +26,7 @@ Nakon toga u int main djelu pozivamo tu funkciju
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/5d29b3a2-0f90-4711-a50c-eefea32c0444)
 
-## Drugi zadatak 
+## Drugi_zadatak 
 
 U ovom zadatku unosimo broj n i sabiramo njegove cifre i vracamo novi broj koji logicno ima manje cifara od predhodnog sve dok vraceni broj ne bude imao samo jednu cifru te onda ispisuje koliko smo puta ponovili korak sabiranja cifara.
 
@@ -35,7 +35,7 @@ U ovom zadatku unosimo broj n i sabiramo njegove cifre i vracamo novi broj koji 
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/fa378b99-b238-4fda-b47d-f5116479f1ec)
 
-## Treci zadatak
+## Treci_zadatak
 
 U ovm-om zadatku pravimo funkciju vase ime, prezime i broj prosljedjeni godina:
 
