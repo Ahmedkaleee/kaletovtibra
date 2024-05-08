@@ -5,7 +5,8 @@
 4.Commit promjena: Unio/la sam opis promjene (commit message) kako bih sačuvao/la promjene.
 5.Praćenje promjena: Redovno sam ažurirao/la repozitorijum sa novim fajlovima ili izmjenama kako bih održao/la projekat aktuelnim.
 6.Korištenje alata za kontrolu verzija: Iskoristio/la sam alate za upravljanje verzijama kako bih pratila/la razvoj projekta i surađivala sa ostalim članovima tima, ako ih ima.
-![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/5d29b3a2-0f90-4711-a50c-eefea32c0444)
+
+![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/20c01ba0-ffc6-422c-b1fb-e757d2ee9136)
 
 
 
