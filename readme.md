@@ -36,15 +36,13 @@ U ovom zadatku unosimo broj n i sabiramo njegove cifre i vracamo novi broj koji 
 
 ## Treci zadatak
 
-U ovm-om zadatku pravimo funkciju vase ime, prezime i broj prosljedjeni godina 
+U ovm-om zadatku pravimo funkciju vase ime, prezime i broj prosljedjeni godina:
 
 
-
-![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/20c01ba0-ffc6-422c-b1fb-e757d2ee9136)
-
-![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/8053c725-e7fe-43d1-a4f8-76bd5401167c)
+![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/bac0a2fb-27a4-4a19-9e9a-d2379cf60ca1)
 
 
+Nakon toga u int main funkciji pozivamo funkciju godine: 
 
 
 
