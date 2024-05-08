@@ -32,6 +32,14 @@ U ovom zadatku unosimo broj n i sabiramo njegove cifre i vracamo novi broj koji 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/10b5f281-5fce-4293-b8e6-6c56d9a82c21)
 
 
+![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/fa378b99-b238-4fda-b47d-f5116479f1ec)
+
+## Treci zadatak
+
+U ovm-om zadatku pravimo funkciju vase ime, prezime i broj prosljedjeni godina 
+
+
+
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/20c01ba0-ffc6-422c-b1fb-e757d2ee9136)
 
 ![image](https://github.com/Ahmedkaleee/kaletovtibra/assets/168560106/8053c725-e7fe-43d1-a4f8-76bd5401167c)
